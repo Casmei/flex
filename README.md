@@ -10,7 +10,7 @@ Seu propósito é inteiramente **educativo e expositivo**.
 O projeto consiste na utilização do ```display: flex;``` para dispor os elementos em linha, com a possibilidade  quebrarmos com o fluxo com o ```flex-wrap: wrap;```. Para as fotografias, utilizei uma api da Unsplash.
 
 ### - Desktop
-![imagem-1](https://github.com/Casmei/flex/blob/main/image.png?raw=true)
+![imagem-1](https://github.com/Casmei/flex/blob/main/image-1.png?raw=true)
 
 ### - Tablet
 ![imagem-1](https://github.com/Casmei/flex/blob/main/image-2.png?raw=true)
